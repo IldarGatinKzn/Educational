@@ -1,5 +1,5 @@
 # Определение возраста покупателей
-[pdf](https://cloud.mail.ru/public/mc22/TysGnLASo) [Jupyter]()
+[pdf](https://cloud.mail.ru/public/mc22/TysGnLASo) [Jupyter](https://github.com/IldarGatinKzn/Educational/blob/main/Age%20determination/age_determination.ipynb)
 
 ## Описание проекта
 
