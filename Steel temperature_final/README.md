@@ -1,4 +1,4 @@
-# Исследование оптимальной температуры стали в процессу легирования
+# Исследование оптимальной температуры стали в процессе легирования
 [pdf](https://cloud.mail.ru/public/P9Fw/DXk57eQ53) [Jupyter](https://github.com/IldarGatinKzn/Educational/blob/main/Steel%20temperature_final/steel_temperature.ipynb)
 
 ## Описание
