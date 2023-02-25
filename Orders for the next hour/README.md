@@ -1,5 +1,5 @@
 # Прогнозирование заказов такси
-[pdf](https://cloud.mail.ru/public/Utoa/Y1ftiRpEw) [Jupyter](https://github.com/IldarGatinKzn/Educational/blob/main/Orders%20for%20the%20next%20hour/orders_for_next_hour.ipynb)
+[pdf](https://cloud.mail.ru/public/yoN7/bXyjeDgAN) [Jupyter](https://github.com/IldarGatinKzn/Educational/blob/main/Orders%20for%20the%20next%20hour/orders_for_next_hour.ipynb)
 
 ## Описание проекта
 
